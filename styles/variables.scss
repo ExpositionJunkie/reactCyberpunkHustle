@@ -1,0 +1,20 @@
+$color-primary: #ffe0df;
+$color-close-glow: #e90830;
+$color-fade-glow: rgba(174,17,35,255);
+$color-secondary: black;
+$color-mid: gray;
+
+$font-headline: 'Cyberway Riders', sans-serif;
+$font-body: 'Gputeks', sans-serif;
+
+
+@font-face {
+    font-family: "Cyberway Riders";
+    src: url("fonts/CyberwayRiders-lg97d.ttf") format("truetype");
+ }
+
+@font-face {
+    font-family: "Gputeks";
+    src: url("fonts/GputeksRegular-PZEr.ttf") format("truetype"),
+        url("fonts/GputeksBold-d5mK.ttf") format("truetype");
+}
